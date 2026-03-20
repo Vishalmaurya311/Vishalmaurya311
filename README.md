@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="https://github.com/Vishalmaurya311/Vishalmaurya311/blob/main/github-header-banner.png?raw=true" />
+</p>
 <h1 align="center">Hi 👋, I'm Vishal Maurya</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAM/coding-kira.gif"
