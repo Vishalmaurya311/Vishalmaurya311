@@ -4,7 +4,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Vishal Maurya</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAM/coding-kira.gif"
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyczd1eTRyb2VrOHNua283ZnZnbnZ6MTJ5aTczZmw0enExZ3lsMmluaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalmaurya311&label=Profile%20views&color=0e75b6&style=flat" alt="vishalmaurya311" /> </p>
 
