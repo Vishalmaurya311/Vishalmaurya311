@@ -4,9 +4,9 @@
 </p>
 
 <!-- Heading -->
-<h1 align="center">Hi 👋, I'm Vishal Maurya</h1>
+<h1 align="center">Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="35" height="35" align="center">, I'm Vishal Maurya</h1>
 <h3 align="center">
-  🚀 Software Engineer | 💻 Full Stack Developer | ⚡ Problem Solver
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="25" height="25" align="center"> Software Engineer | <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" alt="💻" width="25" height="25" align="center"> Full Stack Developer | <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="25" height="25" align="center"> Problem Solver
 </h3>
 
 <!-- Typing Animation -->
@@ -22,12 +22,12 @@
 <!-- LEFT SIDE -->
 <td width="55%" valign="top">
 
-## 👨‍💻 About Me
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" alt="👨‍💻" width="30" height="30" align="center"> About Me
 
-- 🎓 Computer Science Student  
-- 💡 Passionate about building real-world projects  
-- 🚀 Currently improving **DSA + Development**  
-- ⚡ Fun fact: *I love building things from scratch*
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="20" height="20" align="center"> Computer Science Student  
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="20" height="20" align="center"> Passionate about building real-world projects  
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="20" height="20" align="center"> Currently improving **DSA + Development**  
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="20" height="20" align="center"> Fun fact: *I love building things from scratch*
 
 </td>
 
@@ -49,7 +49,7 @@
 ---
 ---
 
-## 🌐 Connect With Me
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f310/512.gif" alt="🌐" width="30" height="30" align="center"> Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/vishal-maurya-35733a284" target="blank">
@@ -67,7 +67,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f527/512.gif" alt="🛠️" width="30" height="30" align="center"> Tech Stack
 
 ### 💻 Languages
 <p>
@@ -86,7 +86,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" alt="📊" width="30" height="30" align="center"> GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=vishalmaurya311&show_icons=true&theme=tokyonight" />
@@ -102,23 +102,23 @@
 
 ---
 
-## 🧠 Currently Learning
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" alt="🧠" width="30" height="30" align="center"> Currently Learning
 
-- Data Structures & Algorithms  
-- Full Stack Development  
-- System Design Basics  
-
----
-
-## 🏆 Achievements
-
-- 🏅 Solved problems on LeetCode  
-- 🚀 Built multiple projects  
-- 💡 Active learner & developer  
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.gif" alt="📚" width="20" height="20" align="center"> Data Structures & Algorithms  
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f310/512.gif" alt="🌐" width="20" height="20" align="center"> Full Stack Development  
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699/512.gif" alt="⚙️" width="20" height="20" align="center"> System Design Basics  
 
 ---
 
-## 👀 Profile Views
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="🏆" width="30" height="30" align="center"> Achievements
+
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c5/512.gif" alt="🏅" width="20" height="20" align="center"> Solved problems on LeetCode  
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="20" height="20" align="center"> Built multiple projects  
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="20" height="20" align="center"> Active learner & developer  
+
+---
+
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="30" height="30" align="center"> Profile Views
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=vishalmaurya311&label=Profile%20views&color=0e75b6&style=flat" />
