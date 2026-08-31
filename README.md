@@ -45,13 +45,13 @@ I am Vishal Maurya — a software engineer focused on building reliable backend 
 
 ### 🚀 Featured Projects
 
-> Replace these placeholders with your actual project names and repo links so visitors can see your work.
+- **ClinicOCR** — https://github.com/Vishalmaurya311/ClinicOCR — An OCR solution intended for extracting structured text from clinical documents (forms, prescriptions, notes). Implemented pre-processing and text recognition pipelines to improve accuracy on noisy scans. (repo: @Vishalmaurya311/ClinicOCR)
 
-- **Project Alpha** — A scalable full-stack application using **NestJS** and **MongoDB**. (add a short impact/result: e.g., improved data throughput or lowered latency)
-- **Project Beta** — Responsive frontend with **React.js** and real-time features. (brief result/metric)
-- **Project Gamma** — Backend service with **Node.js** and **MySQL**, following clean architecture and RESTful principles.
+- **Pathfinding Visualizer** — https://github.com/Vishalmaurya311/pathfinding-visualizer — An interactive visualization tool demonstrating pathfinding algorithms (A*, Dijkstra, BFS, DFS). Built with a responsive frontend to help teach and debug algorithm behavior. (repo: @Vishalmaurya311/pathfinding-visualizer)
 
-(If you want, I can pull project names and descriptions automatically from your repos.)
+- **Project Gamma** — Backend service with **Node.js** and **MySQL**, following clean architecture and RESTful principles. (replace with an actual repo link if desired)
+
+(If you want, I can pull project names, descriptions, and README excerpts automatically from your repos to populate this section with real metadata.)
 
 ---
 
