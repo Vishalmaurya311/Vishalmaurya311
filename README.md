@@ -72,5 +72,5 @@ I am Vishal Maurya — a software engineer focused on building reliable backend 
   <i>"I love building things from scratch."</i>
   <br><br>
   <!-- Optional: I left the profile views counter since it updates in real-time, but you can delete this img tag if you want it gone entirely -->
-  <img src="https://komarev.com/ghpvc/?username=vishalmaurya311&label=Profile%20views&color=00C6FF&style=flat-square" alt="Profile Views" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=vishalmaurya311&label=Profile%20views&color=00C6FF&style=flat-square" alt="Profile Views" /> -->
 </div>
