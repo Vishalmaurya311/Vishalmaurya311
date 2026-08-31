@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Vishalmaurya311/Vishalmaurya311/blob/main/github-header-banner.png?raw=true" alt="Banner" width="100%" />
+  <img src="https://github.com/Vishalmaurya311/Vishalmaurya311/raw/main/github-header-banner.png" alt="Banner" width="100%" />
 
   <h1>Hi, I'm Vishal Maurya 👋</h1>
   <p><b>Software Engineer | Full Stack Developer | Problem Solver</b></p>
@@ -8,25 +8,26 @@
     <a href="https://linkedin.com/in/vishal-maurya-35733a284" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://www.leetcode.com/vishalmaury" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" alt="LeetCode" />
+    <a href="https://github.com/Vishalmaurya311" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="mailto:vishalmauryaa311@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
     </a>
   </p>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Architecting+Scalable+Solutions;Building+Impactful+Full-Stack+Apps;Mastering+Data+Structures+%26+Algorithms;I+Build+Things+From+Scratch" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Architecting+Scalable+Solutions;Building+Impactful+Products;Solving+Complex+Problems" alt="typing"/>
 </div>
 
 <br>
 
 ### 👨‍💻 About Me
 
-*   **Focus:** Bridging the gap between robust backend architectures and seamless frontend experiences.
-*   **Current Deep Dive:** Advanced Data Structures & Algorithms, System Design, and optimizing Full-Stack performance.
-*   **Philosophy:** I believe in writing clean, maintainable code and building systems from the ground up to truly understand how they work under the hood.
-*   **Collaboration:** Always open to discussing software architecture, open-source collaborations, or tackling complex algorithmic challenges.
+I am Vishal Maurya — a software engineer focused on building reliable backend systems and polished frontend experiences. I enjoy solving algorithmic challenges, designing scalable architectures, and collaborating on meaningful projects.
+
+- Current focus: Advanced Data Structures & Algorithms, System Design, and Full-Stack performance optimization.
+- Philosophy: Clean, maintainable code and building systems from first principles.
+- Open to: Software architecture discussions, open-source collaborations, and complex algorithmic problems.
 
 ---
 
@@ -42,23 +43,25 @@
 
 ---
 
-### 🚀 Featured Architecture & Projects
+### 🚀 Featured Projects
 
-> *Tip: Replace the brackets below with your actual projects to show real-world senior impact!*
+> Replace these placeholders with your actual project names and repo links so visitors can see your work.
 
-*   **[Project Name 1](https://github.com/Vishalmaurya311/your-repo):** Built a scalable full-stack application handling [X] concurrent users using **NestJS** and **MongoDB**. Reduced data query times by [Y]% through optimized indexing.
-*   **[Project Name 2](https://github.com/Vishalmaurya311/your-repo):** Engineered a highly responsive frontend architecture with **React.js**, implementing custom authentication flows and real-time state management.
-*   **[Project Name 3](https://github.com/Vishalmaurya311/your-repo):** Designed a robust backend service using **Node.js** and **MySQL**, adhering to RESTful principles and clean code architecture.
+- **Project Alpha** — A scalable full-stack application using **NestJS** and **MongoDB**. (add a short impact/result: e.g., improved data throughput or lowered latency)
+- **Project Beta** — Responsive frontend with **React.js** and real-time features. (brief result/metric)
+- **Project Gamma** — Backend service with **Node.js** and **MySQL**, following clean architecture and RESTful principles.
+
+(If you want, I can pull project names and descriptions automatically from your repos.)
 
 ---
 
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalmaurya311&show_icons=true&hide_border=true&title_color=00C6FF&icon_color=00C6FF&text_color=FFF&theme=transparent&bg_color=0A0A0A" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalmaurya311&hide_border=true&title_color=00C6FF&icon_color=00C6FF&text_color=FFF&theme=transparent&bg_color=0A0A0A" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalmaurya311&show_icons=true&hide_border=true&title_color=00C6FF&icon_color=00C6FF&text_color=FFFFFF&bg_color=0A0A0A" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalmaurya311&hide_border=true&title_color=00C6FF&icon_color=00C6FF&text_color=FFFFFF&bg_color=0A0A0A" width="48%" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalmaurya311&layout=compact&hide_border=true&title_color=00C6FF&icon_color=00C6FF&text_color=FFF&theme=transparent&bg_color=0A0A0A" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalmaurya311&layout=compact&hide_border=true&title_color=00C6FF&icon_color=00C6FF&text_color=FFFFFF&bg_color=0A0A0A" width="48%" />
 </div>
 
 <br>
